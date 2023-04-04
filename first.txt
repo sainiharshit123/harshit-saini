@@ -1,0 +1,5 @@
+1 first we login in github
+2 we install git on machine
+3 we create a directory /root/grras
+4 we initialize this directory as empty repo
+5 then we create this file first.txt
